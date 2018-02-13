@@ -1,4 +1,8 @@
-# jeedom-plugins-extra.github.io
+# Jeedom-Plugins-Extra
+
+<img src="doc/images/FlipClock_icon.png" align="right">
+
+Afficher une horloge de type Flip personnalisable et animée.
 
 > jeedom-plugins-extra.github.io is a catalog of Open Source Jeedom Plugins projects.
 
