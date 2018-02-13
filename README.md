@@ -10,7 +10,7 @@ Qui sommes-nous ?
 
 Vous cherchez une info ? 
 
-Envie d'enrichir la base de connaisances de la tema ?
+Envie d'enrichir la base de connaisances de la Team ?
 
 Une seul lien le [Wiki](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki)
 
