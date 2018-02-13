@@ -1,11 +1,15 @@
 # Jeedom-Plugins-Extra
 
-<img src="doc/images/FlipClock_icon.png" align="right">
+<img src="Extra.png" align="right">
 
-Afficher une horloge de type Flip personnalisable et animée.
+Bienvenue sur le site de la Team Jeedom-Plugins-Extra !
 
-> jeedom-plugins-extra.github.io is a catalog of Open Source Jeedom Plugins projects.
+### Wiki 
+Qui sommes-nous ?
+Vous cherchez une info ? 
+Envie d'enrichir la base de connaisances de la tema ?
+Une seul lien : https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki
 
-
-Accueil sur le Wiki : https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki
+### Chat 
+Venez partager, discuter, aider ....
 Chat de l'équipe sur : https://gitter.im/Jeedom-Plugins-Extra/home
