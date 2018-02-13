@@ -22,4 +22,4 @@ Chat de l'équipe sur [Gitter](https://gitter.im/Jeedom-Plugins-Extra/home)
 
 ### Qui fait Quoi ? Roadmap ?
 
-Voici ce que l'on peut qualifier de sommaire du travail de la team [who](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Liste-Plugins-&-Roadmap)
+Voici ce que l'on peut qualifier de sommaire du travail de la [team](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Liste-Plugins-&-Roadmap)
