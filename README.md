@@ -28,11 +28,11 @@ Des enquêtes seront régulièrement lancées : [Enquêtes](https://github.com/J
 
 ### Qui fait Quoi ? Roadmap ?
 
-Voici ce que l'on peut qualifier de sommaire du travail de la team : [Sommaire](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Liste-Plugins-&-Roadmap)
+Voici ce que l'on peut qualifier de sommaire du travail de la team : [Sommaire](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/03-Liste-Plugins-&-Roadmap)
 
 ### Le futur ?
 
-Voici les idées qui fulminent dans les têtes de la team : [Idées](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Id%C3%A9es)
+Voici les idées qui fulminent dans les têtes de la team : [Idées](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/04-Id%C3%A9es)
 
 Venez participer !!
 
