@@ -20,7 +20,19 @@ Venez partager, discuter, aider ....
 
 Chat de l'équipe sur [Gitter](https://gitter.im/Jeedom-Plugins-Extra/home)
 
+### Enquêtes
+
+Envie de donner votre avis ? 
+
+Des enquêtes seront régulièrement lancées : [Enquêtes](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Enqu%C3%AAtes)
+
 ### Qui fait Quoi ? Roadmap ?
 
 Voici ce que l'on peut qualifier de sommaire du travail de la team : [Sommaire](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Liste-Plugins-&-Roadmap)
+
+### Le futur ?
+
+Voici les idées qui fulminent dans les têtes de la team : [Idées](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Id%C3%A9es)
+
+Venez participer !!
 
