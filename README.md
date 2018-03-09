@@ -1,6 +1,6 @@
 # Jeedom-Plugins-Extra
 
-<img src="images/Jeedom-Plugins-Extra.png" align="right">
+<img src="images/logoblue.png" align="right">
 
 Bienvenue sur le site de la Team Jeedom-Plugins-Extra !
 
