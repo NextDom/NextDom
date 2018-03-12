@@ -1,5 +1,3 @@
-@import '_colors.scss';
-
 .content-wrapper, body, html {
   height: 100%;
 }
@@ -74,7 +72,7 @@ h1, h2 {
 a, p, span, ul {
   font-size: 16px;
   font-size: 1rem;
-  color: #443e3a;
+  color: $brown;
 }
 
 a {
@@ -100,7 +98,7 @@ ul {
 
 .main-site, .site-header-top-bar {
   width: 100%;
-  background-color: #fff;
+  background-color: $white;
 }
 
 .clear {
@@ -130,7 +128,7 @@ ul {
 
 .site-header-top-bar {
   height: 6px;
-  background-color: #000;
+  background-color: $black;
 }
 
 .main-nav {
@@ -143,7 +141,7 @@ ul {
     display: inline-block;
     height: 47px;
     width: 100%;
-    background-color: #000;
+    background-color: $black;
   }
   .page-header-logo {
     background-color: #000 !important;
@@ -170,7 +168,7 @@ ul {
   bottom: -6px;
   left: 10px;
   right: 10px;
-  background-color: #f2783c;
+  background-color: $orange;
   opacity: 0;
 }
 
@@ -199,7 +197,7 @@ ul {
 .sub-nav {
   height: 425px;
   /*480px;*/
-  background-color: #000;
+  background-color: $black;
   /*    background-image: url("../images/Disney-header.png");*/
   background-image: url("../images/DisneyCareers-header.jpg");
   background-repeat: no-repeat;
@@ -242,10 +240,10 @@ ul {
 
 .sub-nav > ul > li > a {
   &:hover {
-    color: #f2783c;
+    color: $orange;
   }
   &.current {
-    color: #fff;
+    color: $white;
   }
 }
 
@@ -266,7 +264,7 @@ ul {
   height: 43px;
   padding-left: 90px;
   padding-top: 20px;
-  color: #fff;
+  color: $white;
 }
 
 .main-nav-item {
@@ -313,7 +311,7 @@ ul {
 .footer-line {
   width: 100%;
   bottom: 12px;
-  border-bottom: 1px solid #30a3ce;
+  border-bottom: 1px solid $blue;
 }
 
 .footer-content {
@@ -394,7 +392,7 @@ ul {
 
 .page-content {
   margin-bottom: 35px;
-  background-color: #fff;
+  background-color: $white;
 }
 
 .page-info {
@@ -429,7 +427,7 @@ ul {
   display: inline-block;
   text-align: center;
   vertical-align: top;
-  background-color: #fff;
+  background-color: $white;
   margin-top: 5px;
   position: relative;
   padding-left: 15px;
@@ -445,14 +443,14 @@ ul {
   display: inline-block;
   text-align: center;
   vertical-align: top;
-  background-color: #000;
+  background-color: $black;
   margin-top: -60px;
   position: relative;
   padding-left: 15px;
   h2 {
     font-size: 16px;
     font-size: 1rem;
-    color: #fff;
+    color: $white;
     margin-left: 15px;
     /*-440px;*/
   }
@@ -571,7 +569,7 @@ ul {
 }
 
 .page-text-events > p > a:hover, .page-text > p > a:hover {
-  color: #f2783c;
+  color: $orange;
 }
 
 .tile {
@@ -581,7 +579,7 @@ ul {
   .top {
     border-bottom: 1px solid #bdb8a6;
     h2 {
-      color: #443e3a;
+      color: $brown;
       font-family: Raleway,sans-serif;
       font-size: 16px;
       font-size: 1rem;
@@ -605,7 +603,7 @@ ul {
       font-size: 1rem;
       font-weight: 400;
       font-style: normal;
-      color: #443e3a;
+      color: $brown;
       padding-right: 15px;
       line-height: 17.6px;
       line-height: 1.1rem;
@@ -695,17 +693,17 @@ ul {
   margin-left: 65px;
   &:last-child {
     padding-left: 65px;
-    border-left: 1px solid #f2783c;
+    border-left: 1px solid $orange;
   }
   > a {
     display: block;
-    color: #443e3a;
+    color: $brown;
     font-size: 18px;
     font-size: 1.125rem;
     padding-top: 5px;
     padding-bottom: 5px;
     &:hover {
-      color: #f2783c;
+      color: $orange;
     }
   }
 }
@@ -716,7 +714,7 @@ ul {
   margin-right: auto;
   > {
     h2 {
-      color: #443e3a;
+      color: $brown;
       font-size: .875rem;
       font-weight: 700;
       padding-bottom: 20px;
@@ -739,7 +737,7 @@ ul {
         font-style: normal;
         text-decoration: underline;
         &:hover {
-          color: #f2783c;
+          color: $orange;
         }
       }
       font-size: 14px;
@@ -753,7 +751,7 @@ ul {
       padding-bottom: 20px;
       list-style: decimal;
       > li {
-        color: #443e3a;
+        color: $brown;
         font-size: 14px;
         font-size: .875rem;
         font-style: normal;
@@ -877,7 +875,7 @@ ul {
         padding-left: 0;
       }
       &:hover {
-        background: #f2783c;
+        background: $orange;
         > a {
           color: #fffae8;
         }
@@ -946,7 +944,7 @@ ul {
   position: relative;
   width: 850px;
   min-height: 170px;
-  background-color: #fff;
+  background-color: $white;
   margin: 0 auto 30px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -960,10 +958,10 @@ ul {
       margin-left: 20px;
       vertical-align: top;
       overflow: hidden;
-      background: #fff;
+      background: $white;
     }
     .no-img {
-      background: #30a3ce;
+      background: $blue;
     }
     .open-source-image > span {
       color: #ffffff;
@@ -1017,17 +1015,17 @@ ul {
   bottom: 0;
   width: 532px;
   height: 37px;
-  border-top: 1px solid #30a3ce;
+  border-top: 1px solid $blue;
   > a {
     text-transform: capitalize;
     display: block;
     position: absolute;
     bottom: 0;
     right: 0;
-    color: #fff;
+    color: $white;
     font-size: 14px;
     font-size: .875rem;
-    background-color: #30a3ce;
+    background-color: $blue;
     -webkit-border-radius: 0 0 4px;
     border-radius: 0 0 4px;
     padding: 11px 10px 11px 12px;
@@ -1159,5 +1157,5 @@ ul {
 }
 
 .slick-prev::before, .slick-next::before, .slick-arrow {
-  color: #000 !important;
+  color: $black !important;
 }
