@@ -8,17 +8,12 @@ h3 {
 	font-size : 1.5rem !important;
 }
 
-h1,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
 	color : #40535E !important;
 }
-h1,h3,h5,h6 {
+h1,h2,h3,h5,h6 {
 	font-weight: 300 !important;
     	line-height: 1.1 !important;
-}
-
-h2 {
-line-height: 0.5;
-color: #eee;
 }
 
 h4 {
