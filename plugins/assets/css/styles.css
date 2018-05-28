@@ -9,7 +9,7 @@ h3 {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color : #40535E !important;
+	color : #33B8CC !important;
 }
 h1,h2,h3,h5,h6 {
 	font-weight: 300 !important;
@@ -66,10 +66,10 @@ nav ul a,nav {
 	height: 80px !important;
 }
 .jeedomcolorbg {
-	background-color: #40535E !important;
+	background-color: #33B8CC !important;
 }
 .jeedomcolor {
-	color: #40535E !important;
+	color: #33B8CC !important;
 }
 .collection a.collection-item {
 	color: #85a835 !important;
@@ -113,7 +113,7 @@ margin-top:5px !important;
 	 color: #fff;
 }
 .dropdown-content li>a, .dropdown-content li>span{
-	color : #40535E !important;
+	color : #33B8CC !important;
 }
 
 nav .button-collapse {
