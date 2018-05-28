@@ -8,11 +8,11 @@ h3 {
 	font-size : 1.5rem !important;
 }
 
-h1 {
+h1, h2 {
 	color : #40535E !important;
 }
 
-h2,h3,h4,h5,h6 {
+h3,h4,h5,h6 {
 	color : #33B8CC !important;
 }
 h1,h2,h3,h5,h6 {
