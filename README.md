@@ -1,5 +1,7 @@
 # NextDom
 
+[![Join the chat at https://gitter.im/NextDom/NextDom](https://badges.gitter.im/NextDom/NextDom.svg)](https://gitter.im/NextDom/NextDom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="images/logoblue.png" align="right">
 
 Bienvenue sur le site de la Team NextDom !
