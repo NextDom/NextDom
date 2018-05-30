@@ -32,7 +32,7 @@ Voici ce que l'on peut qualifier de sommaire du travail de la team : [Sommaire](
 
 ### Le futur ?
 
-Voici les idées qui fulminent dans les têtes de la team : [Idées](https://github.com/NextDom/NextDom/wiki/04-Id%C3%A9es)
+Voici les idées qui fulminent dans les têtes de la team : [Idées](https://github.com/NextDom/NextDom/wiki/05-Idées-à-faire-naître)
 
 Venez participer !!
 
