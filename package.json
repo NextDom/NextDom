@@ -1,5 +1,5 @@
 {
-  "name": "jeedom-plugins-extra.github.io",
+  "name": "NextDom.github.io",
   "scripts": {
     "start": "npm run build:css",
     "build:css": "cat stylesheets/font.css stylesheets/layout.css | cleancss -o  stylesheets/main.min.css"
