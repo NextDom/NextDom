@@ -5,6 +5,6 @@
     "build:css": "cat stylesheets/font.css stylesheets/layout.css | cleancss -o  stylesheets/main.min.css"
   },
   "devDependencies": {
-    "clean-css": "^3.4.20"
+    "clean-css": "^4.2.1"
   }
 }
