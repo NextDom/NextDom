@@ -1,6 +1,6 @@
 # Nextdom, Z-Wave, et MQTT sur un RPI.
 ## Introduction
-Toutes les commandes si dessous doivent être réaliser avec l’utilisateur : `pi`.
+Toutes les commandes si dessous doivent être réalisées avec l’utilisateur : `pi`.
 ## Installation du raspberry.
 
 Téléchargement de [la dernière version Lite](https://www.raspberrypi.org/downloads/raspberry-pi-os/) et déziper l’archive.
@@ -23,8 +23,8 @@ sudo raspi-config
 Réaliser les modifications :
 - changer le `password` de l'utilisateur pi.
 - changer le nom de la machine.
-- changer la `Locale` - pour la france ajouter et choisir `fr_FR.UTF-8`.
-- changer la `Time/Zone` - pour la france choisir `Europe/Paris`.
+- changer la `Locale` - pour la France ajouter et choisir `fr_FR.UTF-8`.
+- changer la `Time/Zone` - pour la France choisir `Europe/Paris`.
 
 Mettre à jour la machine : 
 ```sh
