@@ -1,6 +1,6 @@
 # Nextdom, Z-Wave, et MQTT sur un RPI.
 ## Introduction
-Toutes les commandes si dessous doivent être réalisées avec l’utilisateur : `pi`.
+Toutes les commandes ci-dessous doivent être réalisées avec l’utilisateur : `pi`.
 ## Installation du raspberry.
 
 Téléchargement de [la dernière version Lite](https://www.raspberrypi.org/downloads/raspberry-pi-os/) et déziper l’archive.
