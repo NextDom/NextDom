@@ -57,7 +57,7 @@ wget -q -O - razberry.z-wave.me/install | sudo bash
 ```
 Avec l’utilisateur `pi` :
 ```sh
-sudo apt-get install libudev-dev git
+sudo apt-get install -y libudev-dev git
 cd ~
 git clone https://github.com/OpenZWave/open-zwave.git
 cd open-zwave && make && sudo make install
