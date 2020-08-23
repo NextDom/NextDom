@@ -74,7 +74,7 @@ sudo systemctl enable mosquitto
 #### Installation
 ```sh
 cd ~
-sudo apt-get install npm git
+sudo apt-get install -y npm git
 git clone https://github.com/OpenZWave/Zwave2Mqtt
 cd Zwave2Mqtt
 npm install
