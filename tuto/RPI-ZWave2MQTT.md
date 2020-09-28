@@ -70,11 +70,16 @@ sudo sed -i '$a LD_LIBRARY_PATH=/usr/local/lib64' /etc/environment
 sudo apt install -y mosquitto mosquitto-clients libmosquitto-dev
 sudo systemctl enable mosquitto
 ```
+### NodeJS et npm.
+
+Installation de NodeJS et npm
+https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/
+
 ### Zwave2Mqtt.
 #### Installation
 ```sh
 cd ~
-sudo apt-get install -y npm git
+sudo apt-get install -y git
 git clone https://github.com/OpenZWave/Zwave2Mqtt
 cd Zwave2Mqtt
 npm install
