@@ -1,6 +1,6 @@
 # Nextdom, Z-Wave, et MQTT sur un RPI.
 ## Introduction
-Toutes les commandes si dessous doivent être réaliser avec l’utilisateur : `pi`.
+Toutes les commandes ci-dessous doivent être réalisées avec l’utilisateur : `pi`.
 ## Installation du raspberry.
 
 Téléchargement de [la dernière version Lite](https://www.raspberrypi.org/downloads/raspberry-pi-os/) et déziper l’archive.
@@ -11,7 +11,7 @@ sudo dd bs=1M if=2020-05-27-raspios-buster-lite-armhf.img of=/dev/sdX status=pro
 ```
 À la racine de la partition boot, créer un fichier ssh vide à la racine. Cela permet d’installer et d’activer sshd à l'installation.
 
-Lancer le raspberry avec la carte. Il doit être joingnable en ssh : `pi@<host>` (password: `raspberry`).
+Lancer le raspberry avec la carte. Il doit être joignable en ssh : `pi@<host>` (password: `raspberry`).
 ```sh
 ssh pi@raspberrypi.local
 ```
@@ -31,12 +31,12 @@ Mettre à jour la machine :
 sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y
 ```
 
-Si vous avez une carte GPIO pour le z-wave il faut désactiver le bluetooth :
+Si vous avez une carte GPIO pour le Z-Wave il faut désactiver le bluetooth :
 ```sh
 echo "dtoverlay=pi3-disable-bt" | sudo tee -a /boot/config.txt
 sudo systemctl disable hciuart
 ```
-Optimisation de la ram video :
+Optimisation de la ram vidéo :
 ```sh
 sudo nano /boot/config.txt
 ```
@@ -46,7 +46,7 @@ gpu_mem=16
 disable_l2cache=0
 gpu_freq=250
 ```
-redémarer la machine
+redémarrer la machine
 ```sh
 sudo shutdown -r now
 ```
