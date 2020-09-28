@@ -99,7 +99,7 @@ After=network.target
 
 [Service]
 Environment="LD_LIBRARY_PATH=/usr/local/lib64"
-ExecStart=/usr/bin/npm start
+ExecStart=/usr/local/bin/npm start
 WorkingDirectory=/home/pi/Zwave2Mqtt
 StandardOutput=inherit
 StandardError=inherit
