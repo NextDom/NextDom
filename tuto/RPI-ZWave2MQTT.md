@@ -84,7 +84,7 @@ cd ~
 #### Mise en place du service
 Créer le fichier suivant
 ```sh
-sudo vi /etc/systemd/system/zwave2mqtt.service
+sudo nano /etc/systemd/system/zwave2mqtt.service
 ```
 Avec
 ```ini
