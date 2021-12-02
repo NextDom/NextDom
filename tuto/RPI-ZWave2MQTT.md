@@ -38,13 +38,9 @@ sudo systemctl disable hciuart
 ```
 Optimisation de la ram vidéo :
 ```sh
-sudo nano /boot/config.txt
-```
-Mettre en place les lignes :
-```ini
-gpu_mem=16
-disable_l2cache=0
-gpu_freq=250
+echo "gpu_mem=16" | sudo tee -a /boot/config.txt
+echo "disable_l2cache=0" | sudo tee -a /boot/config.txt
+echo "gpu_freq=250" | sudo tee -a /boot/config.txt
 ```
 redémarrer la machine
 ```sh
