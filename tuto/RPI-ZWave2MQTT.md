@@ -23,8 +23,8 @@ sudo raspi-config
 Réaliser les modifications :
 - changer le `password` de l'utilisateur pi.
 - changer le nom de la machine.
-- changer la `Locale` - pour la france ajouter et choisir `fr_FR.UTF-8`.
-- changer la `Time/Zone` - pour la france choisir `Europe/Paris`.
+- changer la `Locale` - pour la France ajouter et choisir `fr_FR.UTF-8`.
+- changer la `Time/Zone` - pour la France choisir `Europe/Paris`.
 
 Mettre à jour la machine : 
 ```sh
